@@ -1,0 +1,33 @@
+.spinner {
+  content: "";
+  margin: 0;
+  height: 200px;
+  width: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.a1 {
+  background-image: url('bau.jpeg');
+}
+
+.a2 {
+  background-image: url('ca.jpeg');
+}
+
+.a3 {
+  background-image: url('cua.jpeg');
+}
+
+.a4 {
+  background-image: url('ga.jpeg');
+}
+
+.a5 {
+  background-image: url('nai.jpeg');
+}
+
+.a6 {
+  background-image: url('tom.jpeg');
+}
