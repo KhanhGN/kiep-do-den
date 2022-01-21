@@ -1,6 +1,7 @@
 .roll {
 	margin: 20px auto;
 	width: 100%;
+	max-width: 500px;
 	height: 100px;
 	outline: none;
 	border: 5px solid red;
