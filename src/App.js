@@ -23,8 +23,8 @@ class App extends React.Component {
 	};
 
 	roll = async () => {
-		for (let i = 0; i < this.randomInt(1, 10) + 10; i++) {
-			await this.spin(120);
+		for (let i = 0; i < this.randomInt(2, 10) * 5 + 10; i++) {
+			await this.spin(40 * Math.sqrt(i + 1));
 		}
 	};
 
